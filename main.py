@@ -1,15 +1,4 @@
 
-'''
-  Script: Begin a Quest 
-  Date: 3/28/22 
-  Developers: 
-      Arabella McEntire(main menu, swamp, choice function, color)
-      Malia Sweet(hierarchy)
-      Brian Walters(catacombs and all fight modules)            Kaleb Crume (prompt lair, prompt fortress, item functions)
-      Ganon Mabrey(ending, plaque)
-  Purpose: The user creates a character and embarks on a quest for loot in order to defeat a dragon and save the kingdom
-'''
-
 # Import random so we can generate a random number
 import random
 
